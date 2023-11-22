@@ -259,7 +259,7 @@ const Home = () => {
     </section>
     {/* ================== faq section end ======================= */}
 
-    {/* ================== testimonial section ======================= */}
+    {/* ================== testimonial ======================= */}
     <section>
       <div className="container">
       <div className="xl:w-[470px] mx-auto">
@@ -272,7 +272,7 @@ const Home = () => {
         <Testimonial />
       </div>
     </section>
-    {/* ================== testimonial section end ======================= */}
+    {/* ================== testimonial end ======================= */}
 
   </>
 
